@@ -816,7 +816,7 @@ Settings / Offline Sync
 
 **Saud Masood**
 
-BS Computer Science
+BS Computer Science Graduate
 National Skills University Islamabad
 
 **Role:** Flutter Development Intern
