@@ -1,0 +1,3 @@
+◇ injected env (3) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+MongoDB connected successfully
+Server running on port 3000
